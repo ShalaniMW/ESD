@@ -6,5 +6,12 @@ Kheer
 Pasta
 Chicken
 
+Beans
+Pizza
+
 Thankyou
+
+
+Done my changes
+
 Final Copy
